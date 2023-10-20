@@ -1,6 +1,8 @@
 # analiseritica-scrum
 Desafio de certificação da DIO
 
+Na SONY foi utilizada as seguintes metodologias:
+
 Flexibilidade e Adaptabilidade: Dado que o projeto envolve tecnologias complexas, pesquisa contínua e colaboração intensiva com fornecedores e parceiros no Japão, era importante ter uma abordagem que fosse flexível e capaz de se adaptar às mudanças constantes. O Scrum é conhecido por sua flexibilidade e capacidade de lidar com incertezas, o que o torna adequado para projetos complexos e inovadores.
 
 Colaboração Efetiva: O Scrum enfatiza a colaboração da equipe, comunicação frequente e transparência. Isso ajudou a equipe da Sony a colaborar estreitamente com seus parceiros e fornecedores, garantindo uma melhor compreensão das necessidades e requisitos do projeto.
